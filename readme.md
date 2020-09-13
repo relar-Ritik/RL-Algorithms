@@ -14,4 +14,4 @@ Deep Q-Network:
 
 ![Alt Text](https://media.giphy.com/media/SsxU9UVuMRixrbMaLT/giphy.gif)
 
-<img src="https://github.com/relar-Ritik/RL-Algorithms/blob/master/rl_algo.png" align="left" height="1000" width="1000" >
+<img src="https://github.com/relar-Ritik/RL-Algorithms/blob/master/rl_algo.png" align="left" height="500" width="600" >
