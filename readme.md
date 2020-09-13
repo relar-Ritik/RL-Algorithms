@@ -6,6 +6,7 @@
 2. Policy Iteration
 3. Deep Q-Network
 4. CNN-DQN
+5. Policy Reinforce
 
 ## Results
 
